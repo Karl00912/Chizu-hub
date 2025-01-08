@@ -3,7 +3,8 @@ local scripts = {
     [10253248401] = "https://raw.githubusercontent.com/Karl00912/Chizu-hub/refs/heads/main/elementals%20powers%20tycoon.lua",
     [76098497356508] = "https://raw.githubusercontent.com/Karl00912/Chizu-hub/refs/heads/main/fit%20piece%202.lua",
     [7577073048] = "https://raw.githubusercontent.com/Karl00912/Chizu-hub/refs/heads/main/Red%20Light%20Green%20Light.lua",
-    [7540891731] = "https://raw.githubusercontent.com/Karl00912/Chizu-hub/refs/heads/main/Red%20Light%20Green%20Light.lua"
+    [7540891731] = "https://raw.githubusercontent.com/Karl00912/Chizu-hub/refs/heads/main/Red%20Light%20Green%20Light.lua",
+    [118109254120801] = "https://raw.githubusercontent.com/Karl00912/Chizu-hub/refs/heads/main/Blox%20Fruit%20But%20Very%20Good.lua"
 }
 
 local placeId = game.PlaceId
